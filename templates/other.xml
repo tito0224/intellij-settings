@@ -1,8 +1,0 @@
-<templateSet group="other">
-  <template name="sep" value="/**&#10; * *******************************************************&#10; * $VALUE$ Methods&#10; * *******************************************************&#10; */" description="Comment section" toReformat="false" toShortenFQNames="true">
-    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-</templateSet>
