@@ -1,9 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="outlook_stage_attachment_prefix5394474471935901482tmp" type="Image" />
+      <mapping pattern="outlook_stage_attachment_prefix8531413887326912203tmp" type="Image" />
+      <mapping pattern="outlook_stage_attachment_prefix2506616134175789175tmp" type="Image" />
       <mapping pattern="outlook_stage_attachment_prefix7169889327943564061tmp" type="Image" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="outlook_stage_attachment_prefix8902097941557980845tmp" type="PLAIN_TEXT" />
       <mapping ext="hxd" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
