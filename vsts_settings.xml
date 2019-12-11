@@ -19,10 +19,6 @@
           <option name="name" value="repoRoot" />
           <option name="value" value="$USER_HOME$/Projects/Outlook/android" />
         </PropertyState>
-        <PropertyState>
-          <option name="name" value="lastContextKey" />
-          <option name="value" value="//office.visualstudio.com/defaultcollection/outlook mobile/_git/client-android" />
-        </PropertyState>
       </array>
     </option>
   </component>
