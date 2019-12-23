@@ -7,12 +7,13 @@
       <mapping pattern="outlook_stage_attachment_prefix1921383824781897203tmp" type="Image" />
       <mapping pattern="outlook_stage_attachment_prefix6679938787962577298tmp" type="Image" />
       <mapping pattern="outlook_stage_attachment_prefix7169889327943564061tmp" type="Image" />
+      <mapping ext="webp" type="Image" />
+      <mapping pattern="PDcwMWZkZjNmLWY4MDMtNDdjOC05MTc4LTlkNzYxNzJkZmEyY0BhbmRyb2lkLm91dGxvb2suY29tPg__html" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="PEJONlBSMTNNQjA5NjQwNzIzQTA1NkZFNjQ4QURGMEMyOURFRUYwQEJONlBSMTNNQjA5NjQubmFtcHJkMTMucHJvZC5vdXRsb29rLmNvbT4__plain" type="PLAIN_TEXT" />
       <mapping pattern="PDcwMWZkZjNmLWY4MDMtNDdjOC05MTc4LTlkNzYxNzJkZmEyY0BhbmRyb2lkLm91dGxvb2suY29tPg__trimmed__html" type="PLAIN_TEXT" />
       <mapping pattern="PEJONlBSMTNNQjA5NjRFQTMxRkY1QTMyMjY0MjI0Nzc3RURFMUEwQEJONlBSMTNNQjA5NjQubmFtcHJkMTMucHJvZC5vdXRsb29rLmNvbT4__plain" type="PLAIN_TEXT" />
       <mapping pattern="PDc2NDU4NTk5LjUuMTU1OTk0NDg2MzM5NUBsb2NhbGhvc3Q-__html" type="PLAIN_TEXT" />
-      <mapping pattern="PDcwMWZkZjNmLWY4MDMtNDdjOC05MTc4LTlkNzYxNzJkZmEyY0BhbmRyb2lkLm91dGxvb2suY29tPg__html" type="PLAIN_TEXT" />
       <mapping pattern="outlook_stage_attachment_prefix8902097941557980845tmp" type="PLAIN_TEXT" />
       <mapping ext="hxd" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
